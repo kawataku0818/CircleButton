@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApp1", "WindowsApp1\WindowsApp1.vbproj", "{CE29DF62-85B2-408C-ACFB-6CAF364F958E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RoundButton", "RoundButton\RoundButton.vbproj", "{2E12F0E9-1679-4C19-9790-E831ACBF6466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE29DF62-85B2-408C-ACFB-6CAF364F958E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE29DF62-85B2-408C-ACFB-6CAF364F958E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE29DF62-85B2-408C-ACFB-6CAF364F958E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE29DF62-85B2-408C-ACFB-6CAF364F958E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E12F0E9-1679-4C19-9790-E831ACBF6466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E12F0E9-1679-4C19-9790-E831ACBF6466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E12F0E9-1679-4C19-9790-E831ACBF6466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E12F0E9-1679-4C19-9790-E831ACBF6466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6297F3BA-11B2-4467-89B4-DB1BB91FC719}
+	EndGlobalSection
+EndGlobal
